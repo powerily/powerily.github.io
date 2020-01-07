@@ -7,8 +7,8 @@
 **Farmer**: Antoris, Katkoot, Rev, Tentacles, Ozis   
 **Fisherman**: Ermir, Kairi, Ozis   
 **Handyman**: Antoris, Rikash   
-**Hunter**: Rev, Kairi, Tentacles, Ermir, Rikash, Antoris
-**Jeweller**: 115 Neptunus   
+**Hunter**: Rev, Kairi, Tentacles, Ermir, Rikash, Antoris  
+**Jeweller**: Pereb     
 **Lumberjack**: Kairi, Ozis, 171 Rikash, 163 Antoris   
 **Miner**: Ozis   
 **Shoemaker**: Pereb   
