@@ -1,7 +1,7 @@
 ﻿[Home](index) [Character Pages](https://www.dofus.com/en/mmorpg/community/directories/guild-pages/253100222-power) [Discord](https://discord.gg/bMYHBrW) [Rules](rules)
 
 
-**Alchemist**: Ozis, Kairi, Antoris, 186 Rikash, 149 Ermir, 60 Myslaw  
+**Alchemist**: Ozis, Kairi, Antoris, Rikash, Ermir, 60 Myslaw  
 **Artificer**: Kairi, 143 Antoris   
 **Carver**: Pereb, 100 Katkoot   
 **Farmer**: Antoris, Katkoot, Rev, Tentacles, Ozis   
