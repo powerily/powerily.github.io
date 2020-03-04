@@ -8,7 +8,7 @@
 **Fisherman**: Ermir, Kairi, Ozis   
 **Handyman**: Antoris, Rikash   
 **Hunter**: Rev, Kairi, Tentacles, Ermir, Rikash, Antoris, Ozis    
-**Jeweller**: Gray-Wizard, Pereb, 154 Ozis       
+**Jeweller**: Gray-Wizard, 154 Ozis       
 **Lumberjack**: Kairi, Ozis, 171 Rikash, 163 Antoris   
 **Miner**: Ozis, Kairi, Gray-Wizard     
 **Shoemaker**: Pereb, 154 Ozis   
