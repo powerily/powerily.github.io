@@ -6,13 +6,13 @@
 **Carver**: Pereb, 136 Ozis, 100 Katkoot     
 **Farmer**: Antoris, Katkoot, Rev, Tentacles, Ozis, Korbuss       
 **Fisherman**: Ermir, Kairi, Ozis, 119 Korbuss     
-**Handyman**: Antoris, Rikash   
+**Handyman**: Antoris, Rikash, Gray-Wizard     
 **Hunter**: Rev, Kairi, Tentacles, Ermir, Rikash, Antoris, Ozis    
 **Jeweller**: Gray-Wizard, 154 Ozis       
 **Lumberjack**: Kairi, Ozis, Korbuss, 171 Rikash, 163 Antoris   
 **Miner**: Ozis, Kairi, Gray-Wizard, Korbuss       
 **Shoemaker**: Pereb, 154 Ozis   
 **Smith**: Pereb, Korbuss, 135 Ozis   
-**Tailor**: Pereb, 133 Ozis, 89 Korbuss    
+**Tailor**: Pereb, Gray-Wizard, 133 Ozis, 89 Korbuss    
 
 Pereb has all professions level 200, professions are 200 unless stated.
