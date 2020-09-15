@@ -8,7 +8,7 @@ DON’T BE A DICK!
 
 # Perc Rules
 
-Each member will get one slot by default and have the ability to earn or buy additional slots. Members have the right to rent one additional slot at 100kk/week with the kamas going into the guild bank which funds guild events, misc guild chest items and rewards in the future. You can PM Rev or any SIC to rent a slot.
+Each member will get one slot by default and have the ability to earn or buy additional slots. Members have the right to rent one additional slot at 50kk/week with the kamas going into the guild bank which funds guild events, misc guild chest items and rewards in the future. You can PM Rev or any SIC to rent a slot.
 
 **Rewards**
 
@@ -19,13 +19,11 @@ runners-up: one extra slot
   
 If there’s a tie both members will get the reward.
 
-Members can pick up a >200kk perc while the owner is offline to gain points towards extra slots. Additionally, the highest collector on the scoring day will receive one extra slot.   
+Members can pick up a >200kk perc while the owner is offline to gain points towards extra slots. The highest collector on the scoring day will receive one extra slot.   
 
-Members can donate their rewarded slots to other players or to the guild for experience areas.  
+Members can donate their rewarded slots to other players or to the guild for more chest items.    
 
-At >100m guild exp members gain one extra non-transferable slot.
-
-Members may only have a maximum of 4 percs.
+Members may only have a maximum of 4 percs.  
 
 # Recruitment Process
 
