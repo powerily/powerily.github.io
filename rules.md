@@ -25,6 +25,10 @@ Members can donate their rewarded slots to other players or to the guild for mor
 
 Members may only have a maximum of 4 percs.  
 
+# Paddocks
+
+Two paddocks are available for member useage at [-15,1]/[-71,-36]. You may ask Rev for the rights and he'll give you them if he thinks you deserve them. Breeding items and mounts must be taken out of the paddock when finished. Active or fast breeding must be the only types of breeding done in the paddocks (serenity or no tiredness for example).  
+
 # Recruitment Process
 
 I welcome you all to ask if you can invite friends and providing no member has a reasonably high issue with them they should get in and bypass the trial process, we will, however, be watching them to make sure they fit with the vibe of the guild, but there will be no on trial process as outlined below:
