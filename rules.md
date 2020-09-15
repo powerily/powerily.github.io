@@ -12,7 +12,7 @@ Each member will get one slot by default and have the ability to earn or buy add
 
 **Rewards**
 
-We'll be using a scoring system on the people who defend via the Discord channel only, if it isn't posted there it won't be included. Every few weeks+- we'll be rewarding the top three defenders and their rewards will be:  
+We'll be using a scoring system on the people who defend via the Discord channel only, if it isn't posted there it won't be included. Every few weeks+- we'll be rewarding the top four defenders and their rewards will be:  
 
 top defender: two extra slots  
 runners-up: one extra slot  
