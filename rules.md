@@ -3,8 +3,7 @@
 
 # General Guild Rules
 
-DON’T BE A DICK!    
-5% experience donation is appreciated but not mandatory
+DON’T BE A DICK!  
 
 # Perc Rules
 
