@@ -18,7 +18,7 @@ runners-up: one extra slot
   
 If there’s a tie both members will get the reward.
 
-Members can pick up a >200kk perc while the owner is offline to gain points towards extra slots. The highest collector on the scoring day will receive one extra slot.   
+Members can pick up a >200kk perc while the owner is offline to gain points towards extra slots. The top two collectors will receive one extra slot.   
 
 Members can donate their rewarded slots to other players or to the guild for more chest items.    
 
