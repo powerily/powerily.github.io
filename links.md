@@ -32,7 +32,7 @@ Naturally more extensive than the English wiki mdr.
 
 ### Breeding
 
-[JeuxOnline Breeding Guide](https://forums.jeuxonline.info/sujet/725659/montures-guide-de-l-eleveur)
+[JeuxOnline Breeding Guide](https://forums.jeuxonline.info/sujet/725659/montures-guide-de-l-eleveur)  
 [Crossbreeding Calculator](http://felis-silvestris.lescigales.org/)
 
 ### Professions
@@ -41,7 +41,7 @@ Naturally more extensive than the English wiki mdr.
 
 A map containing locations of ore/wood.
 
-[Dofus Planet](https://www.dofusplanet.com/metier)
+[Dofus Planet](https://www.dofusplanet.com/metier)  
 [Profus Jobs](https://profus.net/jobs)
 
 A profession crafting experience calculator, it includes breeding information.
