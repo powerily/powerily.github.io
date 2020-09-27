@@ -1,11 +1,11 @@
 ### Set Creators
 
-[DofusBook](https://www.dofusbook.net/en/)
+[DofusBook](https://www.dofusbook.net/en/)  
 [DofusLab](https://dofuslab.io/)
 
 **1.29**
 
-[DofusBookRetro](https://retro.dofusbook.net/en/)
+[DofusBookRetro](https://retro.dofusbook.net/en/)  
 [DofusBuilder](https://dofusbuilder.com/)
 
 ### Quest Guides
