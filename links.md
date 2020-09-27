@@ -65,3 +65,8 @@ PvP map simulator.
 ### Best French Translator
 
 [DeepL](https://www.deepl.com/translator)
+
+### Idol Score Calculators
+
+[Jeux](https://dofus.jeuxonline.info/idoles)  
+[IdolGen](http://www.idolegen-1.appspot.com/idolegeneration/en)
