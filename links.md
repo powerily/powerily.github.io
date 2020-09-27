@@ -46,7 +46,7 @@ A map containing locations of ore/wood.
 [Dofus Planet](https://www.dofusplanet.com/metier)  
 [Profus Jobs](https://profus.net/jobs)
 
-A profession crafting experience calculator, it includes breeding information.
+A profession crafting experience calculator.
 
 ### Treasure Hunting
 
