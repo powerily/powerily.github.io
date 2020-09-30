@@ -26,7 +26,7 @@ Members may only have a maximum of 4 percs.
 
 # Paddocks
 
-Two paddocks are available for member usage at [-15,1]/[-71,-36]. You may ask Rev for the rights and he'll give you them if he thinks you deserve them. Breeding items and mounts must be taken out of the paddock when finished. Active or fast breeding must be the only types of breeding done in the paddocks (serenity or no tiredness for example).  
+Three paddocks are available for member usage at [3,-33][-71,-36][-72,-37]. You may ask Rev for the rights and he'll give you them if he thinks you deserve them. Breeding items and mounts must be taken out of the paddock when finished. Active or fast breeding must be the only types of breeding done in the paddocks (serenity or no tiredness for example).  
 
 # Recruitment Process
 
